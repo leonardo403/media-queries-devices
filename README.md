@@ -1,5 +1,6 @@
 #Snippets CSS for Media Queries
 ============
+![Alt text](/assets/img/screen_sizes.jpg "Many Devices")
 
 This is snippets css for help you when create an website that will access many devices.
 You can see some examples a below:
