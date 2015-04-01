@@ -50,9 +50,7 @@ Put file CSS into head of your website or using into your CSS. Look example a be
 Now you put CSS into of file CSS like this: 
 >
 <code>
-@media screen and (device-height: 640px){
-    .sidebar{margin:0px 23px}
-}
+@import url("path/media-queries-devices.css");
 </code>
 
 #References
