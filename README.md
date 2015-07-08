@@ -53,6 +53,9 @@ Now you put CSS into of file CSS like this:
 @import url("path/media-queries-devices.css");
 </code>
 
+#Mobile Checker
+[Mobile Checker](https://validator.w3.org/mobile-alpha/?utm_source=html5weekly&utm_medium=email)
+
 #References
 
 [CSS Tricks](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
