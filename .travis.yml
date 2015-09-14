@@ -1,4 +1,7 @@
-language: css
-notifications:
+language: node_js
+node_js:
+  - "0.12"
+  - "0.11"
+  - "0.10"
 email: "leonardo403@gmail.com"
 irc: false
